@@ -1,4 +1,4 @@
-# woteq-autoclicker-autoclicker-
+# woteq-autoclicker-autoclicker
 woteq-autoclicker (autoclicker) roblox minecraft
 
 # Automate Tasks Using WOTEQ AutoClicker
